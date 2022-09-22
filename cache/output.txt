@@ -1,0 +1,1 @@
+O diretorio cache é o local para os arquivos processados
