@@ -1,2 +1,2 @@
-# r_padronizar_imagens
-Padronizar imagens utilizando o R
+# Padronizar imagens utilizando o R
+Reamostrar imagens (raster) utilizando a funçao projectRaster do pacote raster.
